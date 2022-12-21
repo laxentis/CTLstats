@@ -1,0 +1,242 @@
+[
+    {
+        "year": 2023,
+        "direction": "W",
+        "candidates": {
+            "arabia": [
+                "HESH",
+                "OBBI",
+                "OEJN",
+                "OIIE",
+                "OOMS",
+                "OJAI"
+            ],
+            "europe": [
+                "EDDF",
+                "EHAM",
+                "EKCH",
+                "LPPT",
+                "LTFM",
+                "UUEE",
+                "LEBL",
+                "ENBR",
+                "LHBP",
+                "LIRN",
+                "LBSF",
+                "EVRA",
+                "GMMN",
+                "LOWW"
+            ]
+        },
+        "chosen": {
+            "arabia": [
+                "HESH",
+                "OBBI",
+                "OOMS",
+                "OJAI",
+                "OEJN"
+            ],
+            "europe": [
+                "EDDF",
+                "EKCH",
+                "LEBL",
+                "ENBR",
+                "LHBP",
+                "EVRA"
+            ]
+        }
+    },
+    {
+        "year": 2022,
+        "direction": "E",
+        "candidates": {
+            "arabia": [
+                "HECA",
+                "OERK",
+                "OIIE",
+                "OOMS",
+                "OTHH"
+            ],
+            "europe": [
+                "LEMD",
+                "LFMN",
+                "LTFM",
+                "ULLI",
+                "EDDV",
+                "EFHK",
+                "GMMN",
+                "LHBP",
+                "LKPR",
+                "LROP",
+                "ELLX",
+                "LIML",
+                "LOWS",
+                "LZIB"
+            ]
+        },
+        "chosen": {
+            "arabia": [
+                "HECA",
+                "OTHH",
+                "OERK",
+                "OIIE"
+            ],
+            "europe": [
+                "LEMD",
+                "EDDV",
+                "ELLX",
+                "LFMN",
+                "LOWS",
+                "LKPR"
+            ]
+        }
+    },
+    {
+        "year": 2022,
+        "direction": "W",
+        "candidates" : {
+            "arabia": [
+                "OMDB",
+                "OIIE",
+                "OKBK",
+                "OEJN",
+                "OJAI",
+                "HESH"
+            ],
+            "europe": [
+                "LFPG",
+                "EDDM",
+                "LOWW",
+                "LTFM",
+                "ENGM",
+                "EPWA",
+                "EBBR",
+                "LSGG",
+                "LPPT",
+                "EETN",
+                "EVRA",
+                "LZIB",
+                "LROP",
+                "LIPE",
+                "LBSF",
+                "LEMG"
+            ]
+        },
+        "chosen": {
+            "arabia": [
+                "OMDB",
+                "OJAI",
+                "OKBK",
+                "OEJN",
+                "HESH"
+            ],
+            "europe": [
+                "EDDM",
+                "LOWW",
+                "EBBR",
+                "LSGG",
+                "LEMG",
+                "EVRA"
+            ]
+        }
+    },
+    {
+        "year": 2021,
+        "direction": "E",
+        "candidates": {
+            "arabia": [
+                "OKBK",
+                "OJAI",
+                "OEJN",
+                "OIIE",
+                "OMDB",
+                "HEGN"
+            ],
+            "europe": [
+                "EBBR",
+                "EHAM",
+                "LTFM",
+                "EKCH",
+                "LEPA",
+                "LHBP",
+                "EDDL",
+                "LFMN",
+                "EPWA",
+                "LPPT",
+                "LKPR",
+                "LZIB",
+                "LIPE",
+                "LROP",
+                "LDZA"
+            ]
+        },
+        "chosen": {
+            "arabia": [
+                "OMDB",
+                "HEGN",
+                "OEJN",
+                "OKBK",
+                "OJAI"
+            ],
+            "europe": [
+                "EHAM",
+                "EKCH",
+                "EDDL",
+                "LEPA",
+                "LKPR",
+                "LDZA"
+            ]
+        }
+    },
+    {
+        "year": 2021,
+        "direction": "W",
+        "candidates": {
+            "arabia": [
+                "OLBA",
+                "HECA",
+                "OTHH",
+                "OMDB",
+                "OKBK",
+                "OJAI",
+                "OIIE"
+            ],
+            "europe": [
+                "LGAV",
+                "LEBL",
+                "EDDB",
+                "LZIB",
+                "EBBR",
+                "LHBP",
+                "EKCH",
+                "EIDW",
+                "LSGG",
+                "LPPT",
+                "LJLJ",
+                "LFPG",
+                "LKPR",
+                "EVRA",
+                "EETN",
+                "LIPZ",
+                "LOWW",
+                "EPWA"
+            ]
+        },
+        "chosen": {
+            "arabia": [
+                "HECA",
+                "OIIE",
+                "OLBA",
+                "OMDB",
+                "OTHH"
+            ],
+            "europe": [
+                "EDDB",
+                "EIDW",
+                "EVRA",
+                "LFPG",
+                "LIPZ"
+            ]
+        }
+    }
+]
