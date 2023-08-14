@@ -1,6 +1,51 @@
 [
     {
         "year": 2023,
+        "direction": "E",
+        "candidates": {
+            "arabia": [
+                "OMDB",
+                "OEJN",
+                "OLBA",
+                "OIIE",
+                "OJAI",
+                "HEGN"
+            ],
+            "europe": [
+                "EHAM",
+                "LTFM",
+                "UUEE",
+                "LOWW",
+                "ESGG",
+                "LFMN",
+                "EDDB",
+                "UKBB",
+                "GCTS",
+                "LBSF",
+                "LIRN",
+                "LJLJ"
+            ]
+        },
+        "chosen": {
+            "arabia": [
+                "OMDB",
+                "HEGN",
+                "OLBA",
+                "OEJN",
+                "OJAI"
+            ],
+            "europe": [
+                "EHAM",
+                "LTFM",
+                "EDDB",
+                "LFMN",
+                "GCTS",
+                "LIRN"
+            ]
+        }
+    },
+    {
+        "year": 2023,
         "direction": "W",
         "candidates": {
             "arabia": [
