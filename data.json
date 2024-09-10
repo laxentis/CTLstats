@@ -29,6 +29,36 @@
     }
   },
   {
+    "year": 2024,
+    "direction": "W",
+    "candidates": {
+      "arabia": ["DTNH", "HECA", "OEJN", "OIIE", "OJAI", "OMAA"],
+      "europe": [
+        "EDDM",
+        "EFHK",
+        "LOWW",
+        "UUEE",
+        "EKCH",
+        "LFBO",
+        "LTAI",
+        "LPPT",
+        "LGAV",
+        "UBBB",
+        "EETN",
+        "ENBR",
+        "EVRA",
+        "LIPZ",
+        "LBSF",
+        "LKPR",
+        "LROP"
+      ]
+    },
+    "chosen": {
+      "europe": ["EDDF", "ENGM", "EPWA", "LFPO", "ELLX", "EVRA"],
+      "arabia": ["DTTA", "HECA", "OEMA", "OIIE", "OJAI", "OTHH"]
+    }
+  },
+  {
     "year": 2023,
     "direction": "E",
     "candidates": {
