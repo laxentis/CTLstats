@@ -1,5 +1,32 @@
 [
   {
+    "year": 2025,
+    "direction": "W",
+    "candidates": {
+      "arabia": ["OMDB", "HECA", "HAAB", "OIIE", "OJAI", "OKKK", "OERK"],
+      "europe": [
+        "EHAM",
+        "EKCH",
+        "LTFM",
+        "LIMC",
+        "EBBR",
+        "LEBL",
+        "EDDH",
+        "LFMN",
+        "LHBP",
+        "UKBB",
+        "UBBB",
+        "ESGG",
+        "EPKK",
+        "LDDU",
+        "LBSF"
+      ]
+    },
+    "chosen": {
+      "europe": ["EHAM", "LIMC", "EDDH", "LFMN", "ESGG", "EPKK"],
+      "arabia": ["OMDB", "HECA", "HAAB", "OIIE", "OJAI", "OKKK"]
+  },
+  {
     "year": 2024,
     "direction": "E",
     "candidates": {
